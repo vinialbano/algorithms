@@ -1,0 +1,20 @@
+{
+  "name": "algorithms",
+  "version": "0.0.1",
+  "description": "Package of useful algorithms",
+  "main": "binary-search.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-karma": "*",
+    "karma-jasmine": "*",
+    "karma-phantomjs-launcher": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ViniAlbano",
+  "license": "ISC"
+}
